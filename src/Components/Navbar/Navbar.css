@@ -1,0 +1,14 @@
+.btn{
+    background-color: #002A94 ;
+    color: #fff;
+}
+.logo-img{
+    width: 168px;
+    height: 40px;
+    align-self: center;
+    margin: 2rem;
+}
+ul li:hover{
+    color:#002A94;
+    cursor: pointer;
+}

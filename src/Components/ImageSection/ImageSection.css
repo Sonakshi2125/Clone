@@ -1,0 +1,6 @@
+.btn-img{
+    transition: 0.3s;
+}
+.btn-img:hover{
+transform: translateY(3px);
+}
